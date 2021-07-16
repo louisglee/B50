@@ -1,2 +1,3 @@
 # B50
-Drilling down on concepts interesting to me from Balaji S. Srinivasan's writings, interviews, and Tweets.
+Project B50 stands for Balaji 50. This series of Tweets and blog posts are in response to @dickiebush’s Tweet below:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Permissionless project idea:<br><br>Create an asset exploring 50 concepts from interviews with <a href="https://twitter.com/balajis?ref_src=twsrc%5Etfw">@balajis</a> <br><br>If you’re an ambitious learner who wants to understand where the future is headed, here’s how to do it:</p>&mdash; Dickie Bush 🚢 (@dickiebush) <a href="https://twitter.com/dickiebush/status/1412912753052844035?ref_src=twsrc%5Etfw">July 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
